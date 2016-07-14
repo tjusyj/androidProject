@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="chooser_title">Share this via</string>
+</resources>
