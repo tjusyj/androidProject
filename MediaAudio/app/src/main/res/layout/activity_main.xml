@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tjusyj.mediaaudio.MainActivity"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="match_parent"
+        android:layout_height="35dip"
+        android:text="sugar.mp3" />
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/bt_play"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="MediaPlay"
+            android:text="play"/>
+
+        <Button
+            android:id="@+id/bt_pause"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="MediaPlay"
+            android:text="pause"/>
+
+        <Button
+            android:id="@+id/bt_stop"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="MediaPlay"
+            android:text="stop"/>
+
+        <Button
+            android:id="@+id/bt_replay"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:onClick="MediaPlay"
+            android:text="replay"/>
+
+    </LinearLayout>
+</LinearLayout>

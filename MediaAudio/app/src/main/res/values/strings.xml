@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaAudio</string>
+    <string name="pause_cont">cont.</string>
+    <string name="pause_pause">pause</string>
+</resources>
