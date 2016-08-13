@@ -1,25 +1,37 @@
 # androidProject
-Test:
+<hr/>
+<h2>Test:<h2/>
 	test~
-Save:
+<hr/>
+<h2>Save:<h2/>
 	Save file.
-SQLite:
+<hr/>
+<h2>SQLite:<h2/>
 	use SQLite.
-Intent:
+<hr/>
+<h2>Intent:<h2/>
 	use intent to take photo.
-Intent Filter:
+<hr/>
+<h2>Intent Filter:<h2/>
 	use intent filter to control the 'jump' to other activity or app.
-Permission:
+<hr/>
+<h2>Permission:<h2/>
 	search a phone number.
-ShareData:
+<hr/>
+<h2>ShareData:<h2/>
 	share data between app.
-MediaAudio:
+<hr/>
+<h2>MediaAudio:<h2/>
 	play music & control volume & remote control.
-PhotoSave:
+<hr/>
+<h2>PhotoSave:<h2/>
 	take photo & view in a scaled size.
-VideoView:
+<hr/>
+<h2>VideoView:<h2/>
 	record & view video.
-CameraControl:
+<hr/>
+<h2>CameraControl:<h2/>
 	control camera directly from your app.
-ListViewDemo:
+<hr/>
+<h2>ListViewDemo:<h2/>
 	ListView & adapter & data binding.
